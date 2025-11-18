@@ -1,0 +1,2 @@
+# Optimizing-Employee-Performance-and-Employee-Benefit-Programs-through-Data-Driven-Insights
+Centralized HR data to optimize employee performance and benefit programs. Built Looker Studio dashboards integrating attendance, training, and benefits usage. Enabled real-time monitoring, flagged at-risk employees, identified low-ROI benefits, and supported data-driven HR decisions to improve engagement and retention.
